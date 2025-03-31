@@ -1,0 +1,90 @@
+2025-03-30 20:48:32.093 | INFO     | main:startup_event:27 - Iniciando el servicio de API
+2025-03-30 20:48:32.348 | INFO     | main:startup_event:30 - Modelo entrenado y listo para usar
+2025-03-30 20:49:12.337 | ERROR    | main:make_prediction:68 - Error en la predicción: 
+2025-03-30 20:52:10.185 | INFO     | main:startup_event:27 - Iniciando el servicio de API
+2025-03-30 20:52:10.416 | INFO     | main:startup_event:30 - Modelo entrenado y listo para usar
+2025-03-30 20:52:10.573 | INFO     | main:startup_event:27 - Iniciando el servicio de API
+2025-03-30 20:52:10.807 | INFO     | main:startup_event:30 - Modelo entrenado y listo para usar
+2025-03-30 20:52:38.098 | INFO     | main:startup_event:27 - Iniciando el servicio de API
+2025-03-30 20:52:38.098 | INFO     | main:startup_event:27 - Iniciando el servicio de API
+2025-03-30 20:52:38.261 | INFO     | main:startup_event:30 - Modelo entrenado y listo para usar
+2025-03-30 20:52:38.272 | INFO     | main:startup_event:30 - Modelo entrenado y listo para usar
+2025-03-30 20:55:37.290 | INFO     | main:startup_event:46 - Iniciando el servicio de API
+2025-03-30 20:55:37.367 | INFO     | main:startup_event:46 - Iniciando el servicio de API
+2025-03-30 20:55:37.418 | INFO     | main:startup_event:49 - Modelo entrenado y listo para usar
+2025-03-30 20:55:37.483 | INFO     | main:startup_event:49 - Modelo entrenado y listo para usar
+2025-03-30 20:57:47.434 | INFO     | main:startup_event:46 - Iniciando el servicio de API
+2025-03-30 20:57:47.454 | INFO     | main:startup_event:46 - Iniciando el servicio de API
+2025-03-30 20:57:47.546 | INFO     | main:startup_event:49 - Modelo entrenado y listo para usar
+2025-03-30 20:57:47.566 | INFO     | main:startup_event:49 - Modelo entrenado y listo para usar
+2025-03-30 20:57:50.062 | INFO     | main:startup_event:46 - Iniciando el servicio de API
+2025-03-30 20:57:50.094 | INFO     | main:startup_event:46 - Iniciando el servicio de API
+2025-03-30 20:57:50.177 | INFO     | main:startup_event:49 - Modelo entrenado y listo para usar
+2025-03-30 20:57:50.208 | INFO     | main:startup_event:49 - Modelo entrenado y listo para usar
+2025-03-30 20:58:04.655 | ERROR    | main:make_prediction:87 - Error en la predicción: X has 11 features, but StandardScaler is expecting 13 features as input.
+2025-03-30 20:58:17.136 | ERROR    | main:make_prediction:87 - Error en la predicción: X has 11 features, but StandardScaler is expecting 13 features as input.
+2025-03-30 20:59:08.030 | ERROR    | main:make_prediction:87 - Error en la predicción: X has 11 features, but StandardScaler is expecting 13 features as input.
+2025-03-30 20:59:11.428 | ERROR    | main:make_prediction:87 - Error en la predicción: X has 11 features, but StandardScaler is expecting 13 features as input.
+2025-03-30 21:00:12.215 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:00:12.269 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:00:12.324 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:00:12.383 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:00:29.271 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:00:29.383 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:01:18.002 | INFO     | main:make_prediction:76 - Predicción exitosa - Clase: 0, Probabilidad: 0.9000, Tiempo: 0.0242s
+2025-03-30 21:04:39.921 | INFO     | main:make_prediction:76 - Predicción exitosa - Clase: 0, Probabilidad: 1.0000, Tiempo: 0.0289s
+2025-03-30 21:05:01.558 | INFO     | main:make_prediction:76 - Predicción exitosa - Clase: 0, Probabilidad: 1.0000, Tiempo: 0.0223s
+2025-03-30 21:05:02.343 | INFO     | main:make_prediction:76 - Predicción exitosa - Clase: 0, Probabilidad: 1.0000, Tiempo: 0.0223s
+2025-03-30 21:06:11.070 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:06:11.308 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:06:11.324 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:06:20.688 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:06:20.688 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:06:20.920 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:06:20.934 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:06:29.839 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:06:30.057 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:07:18.976 | INFO     | main:make_prediction:76 - Predicción exitosa - Clase: 0, Probabilidad: 0.9955, Tiempo: 0.0605s
+2025-03-30 21:08:07.828 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:08:07.839 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:08:07.839 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:08:08.735 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:08:08.746 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:08:08.749 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:08:21.777 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:08:21.830 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:08:21.873 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:08:22.765 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:08:22.787 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:08:22.820 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:09:46.801 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:09:47.679 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:10:34.577 | INFO     | main:make_prediction:76 - Predicción exitosa - Clase: 0, Probabilidad: 0.9947, Tiempo: 0.1670s
+2025-03-30 21:11:48.472 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:11:48.473 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:11:49.265 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:12:37.252 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.8349, Tiempo: 0.1557s
+2025-03-30 21:13:48.195 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.8349, Tiempo: 0.1519s
+2025-03-30 21:14:29.072 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.8349, Tiempo: 0.1501s
+2025-03-30 21:15:06.400 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:15:06.549 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:15:07.211 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:15:07.332 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:15:40.031 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9174, Tiempo: 0.1556s
+2025-03-30 21:15:43.159 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9174, Tiempo: 0.1505s
+2025-03-30 21:15:44.699 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9174, Tiempo: 0.1491s
+2025-03-30 21:15:46.507 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9174, Tiempo: 0.1482s
+2025-03-30 21:15:47.478 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9174, Tiempo: 0.1580s
+2025-03-30 21:17:39.784 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:17:39.849 | INFO     | main:startup_event:48 - Iniciando el servicio de API
+2025-03-30 21:17:40.527 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:17:40.582 | INFO     | main:startup_event:51 - Modelo entrenado y listo para usar
+2025-03-30 21:17:51.355 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9914, Tiempo: 0.1596s
+2025-03-30 21:17:51.507 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.7145, Tiempo: 0.1484s
+2025-03-30 21:17:51.665 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.4467, Tiempo: 0.1552s
+2025-03-30 21:18:31.561 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.4467, Tiempo: 0.1486s
+2025-03-30 21:18:59.871 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.7145, Tiempo: 0.1615s
+2025-03-30 21:21:33.737 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.7145, Tiempo: 0.1602s
+2025-03-30 21:24:07.148 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.4467, Tiempo: 0.2004s
+2025-03-30 21:24:42.118 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 0, Probabilidad: 0.9914, Tiempo: 0.1544s
+2025-03-30 21:27:02.110 | INFO     | main:make_prediction:104 - Predicción exitosa - Clase: 1, Probabilidad: 0.4467, Tiempo: 0.1632s
